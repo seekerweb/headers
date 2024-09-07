@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    background-color:skyblue ;
+border: 10px solid blueviolet;
+}
+.headerright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.headerleft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-right: 100px;
+}
+a{
+    text-decoration: none;
+}
+ button{
+    color: yellow ;
+    background-color: blueviolet; */
+}
+.btnb{
+    
+
+}

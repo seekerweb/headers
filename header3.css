@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(228, 243, 97);
+    
+}
+.headerleft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 300px;
+}
+.headerright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-left: 600px;
+}
+.main{
+    background-color: yellow;
+}
+.headerdown{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 115px;
+}
+a{
+    text-decoration: none;
+}
+.cart i{
+    background-color: black;
+    height: 60px;
+    width: 60px;
+    padding-left: 40px;
+    color: yellowgreen;
+    padding-top: 30px;
+    
+}

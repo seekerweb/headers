@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+.headerleft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-right: 290px;
+}
+.headermiddle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 60px;
+    
+}
+.header3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 80px;
+}
+.headerright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 40px;
+}
+.headermiddle button{
+    width: 250px;
+    gap: 150px;
+}
+ .headerright button{
+    border-radius: 20px;
+    color: red;
+}
+.main{
+    background-color: antiquewhite;
+}

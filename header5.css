@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: antiquewhite; */
+    border-radius: 20px;
+}
+.headerleft{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    gap: 5px;
+    padding-right: 400px; 
+    
+}
+.headermiddle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    padding-right: 100px;
+}
+.headerright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding-left: 200px;
+}
+button{
+    background: transparent;
+    border-radius: 50px;
+    color: blue;
+    font-size: larger;
+}
+.main{
+    background-color: aliceblue;
+}

@@ -1,0 +1,24 @@
+.headerholder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-decoration: none;
+background-color:whitesmoke ;
+border: 10px solid skyblue;
+}
+/* .main{
+    background-color: skyblue;
+    height: 100px;
+} */
+.rem{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    text-shadow: 40px;
+}
+.rem a{
+    text-decoration: underline;
+    
+}
